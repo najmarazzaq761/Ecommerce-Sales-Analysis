@@ -1,6 +1,5 @@
 # E-Commerce Sales Data Analysis
-
-Uploading E-commerse_sales_analysis.ipynb - Colab - Google Chrome 2024-08-20 08-28-52.mp4…
+https://github.com/user-attachments/assets/5c734a5e-69b5-421c-9346-56c39822b9de
 
 ## Overview
 
@@ -34,4 +33,4 @@ The project includes various visualizations, such as bar plots, line plots, and 
 
 This project has provided valuable insights into e-commerce sales, revealing key trends and patterns that can inform business decisions. The findings highlight the importance of data-driven decision-making in optimizing product offerings and improving customer satisfaction.
 
-Feel free to explore the [notebook]([link-to-notebook](https://colab.research.google.com/drive/16BFI2vCVPSePAbl2zk1zQyqBrIQH3mwO?usp=sharing)) for detailed analysis and visualizations.
+Feel free to explore the [notebook]([https://colab.research.google.com/drive/16BFI2vCVPSePAbl2zk1zQyqBrIQH3mwO?usp=sharing])for detailed analysis and visualizations.
